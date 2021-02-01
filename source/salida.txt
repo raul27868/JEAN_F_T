@@ -1,0 +1,191 @@
+
+Valor de  mensaje:bonjour, votre profil est sympa...on peut discuter?
+
+Valor de  User:ilovir
+
+Valor de  UserAgent:Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)
+
+Valor de  token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODQxNzg4NywiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWGVFNkRhYnhWQk1XRmZob0I1azlydTl6RFdWS1NNeEFYc3drM0pNOVgzZEE1dVhJeGI3Ui4iLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJGZYQ3lpT0pISzJLUzcuUE8zWVlwY3VyU2FGSzZcL1o3dkN2ZGxaVTRhVFl4Zkw0VXpOc1lkVyIsInVwdCI6IjEiLCJ1YXAwIjozMH0.D5bcLp1qSE-xCgnBJ3rsYKBpinTctiD1l90WSP6fc44
+
+........................................................................
+
+
+	Valor de  id                :32893
+	Valor de  nickname:melsh
+curl -s 'https://www.wyylde.com/rest/message/send/32893' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODQxNzg4NywiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWGVFNkRhYnhWQk1XRmZob0I1azlydTl6RFdWS1NNeEFYc3drM0pNOVgzZEE1dVhJeGI3Ui4iLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJGZYQ3lpT0pISzJLUzcuUE8zWVlwY3VyU2FGSzZcL1o3dkN2ZGxaVTRhVFl4Zkw0VXpOc1lkVyIsInVwdCI6IjEiLCJ1YXAwIjozMH0.D5bcLp1qSE-xCgnBJ3rsYKBpinTctiD1l90WSP6fc44' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/32893/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":32893,"msg":"bonjour, votre profil est sympa...on peut discuter?"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1f8c1e0)
+
+
+
+
+	Valor de  id                :3054270
+	Valor de  nickname:sexyfoly2
+curl -s 'https://www.wyylde.com/rest/message/send/3054270' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODQxNzg4NywiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWGVFNkRhYnhWQk1XRmZob0I1azlydTl6RFdWS1NNeEFYc3drM0pNOVgzZEE1dVhJeGI3Ui4iLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJGZYQ3lpT0pISzJLUzcuUE8zWVlwY3VyU2FGSzZcL1o3dkN2ZGxaVTRhVFl4Zkw0VXpOc1lkVyIsInVwdCI6IjEiLCJ1YXAwIjozMH0.D5bcLp1qSE-xCgnBJ3rsYKBpinTctiD1l90WSP6fc44' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/3054270/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":3054270,"msg":"bonjour, votre profil est sympa...on peut discuter?"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1f60510)
+
+
+
+
+	Valor de  id                :1895925
+	Valor de  nickname:pinkpinup
+curl -s 'https://www.wyylde.com/rest/message/send/1895925' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODQxNzg4NywiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWGVFNkRhYnhWQk1XRmZob0I1azlydTl6RFdWS1NNeEFYc3drM0pNOVgzZEE1dVhJeGI3Ui4iLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJGZYQ3lpT0pISzJLUzcuUE8zWVlwY3VyU2FGSzZcL1o3dkN2ZGxaVTRhVFl4Zkw0VXpOc1lkVyIsInVwdCI6IjEiLCJ1YXAwIjozMH0.D5bcLp1qSE-xCgnBJ3rsYKBpinTctiD1l90WSP6fc44' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/1895925/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":1895925,"msg":"bonjour, votre profil est sympa...on peut discuter?"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1f8c108)
+
+
+
+
+	Valor de  id                :693857
+	Valor de  nickname:fill-in
+curl -s 'https://www.wyylde.com/rest/message/send/693857' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODQxNzg4NywiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWGVFNkRhYnhWQk1XRmZob0I1azlydTl6RFdWS1NNeEFYc3drM0pNOVgzZEE1dVhJeGI3Ui4iLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJGZYQ3lpT0pISzJLUzcuUE8zWVlwY3VyU2FGSzZcL1o3dkN2ZGxaVTRhVFl4Zkw0VXpOc1lkVyIsInVwdCI6IjEiLCJ1YXAwIjozMH0.D5bcLp1qSE-xCgnBJ3rsYKBpinTctiD1l90WSP6fc44' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/693857/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":693857,"msg":"bonjour, votre profil est sympa...on peut discuter?"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1f601c8)
+
+
+
+
+	Valor de  id                :3166343
+	Valor de  nickname:manya
+curl -s 'https://www.wyylde.com/rest/message/send/3166343' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODQxNzg4NywiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWGVFNkRhYnhWQk1XRmZob0I1azlydTl6RFdWS1NNeEFYc3drM0pNOVgzZEE1dVhJeGI3Ui4iLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJGZYQ3lpT0pISzJLUzcuUE8zWVlwY3VyU2FGSzZcL1o3dkN2ZGxaVTRhVFl4Zkw0VXpOc1lkVyIsInVwdCI6IjEiLCJ1YXAwIjozMH0.D5bcLp1qSE-xCgnBJ3rsYKBpinTctiD1l90WSP6fc44' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/3166343/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":3166343,"msg":"bonjour, votre profil est sympa...on peut discuter?"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1f60138)
+
+
+
+
+	Valor de  id                :2858854
+	Valor de  nickname:Pomme_84
+curl -s 'https://www.wyylde.com/rest/message/send/2858854' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODQxNzg4NywiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWGVFNkRhYnhWQk1XRmZob0I1azlydTl6RFdWS1NNeEFYc3drM0pNOVgzZEE1dVhJeGI3Ui4iLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJGZYQ3lpT0pISzJLUzcuUE8zWVlwY3VyU2FGSzZcL1o3dkN2ZGxaVTRhVFl4Zkw0VXpOc1lkVyIsInVwdCI6IjEiLCJ1YXAwIjozMH0.D5bcLp1qSE-xCgnBJ3rsYKBpinTctiD1l90WSP6fc44' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/2858854/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":2858854,"msg":"bonjour, votre profil est sympa...on peut discuter?"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1f600a8)
+
+
+
+
+	Valor de  id                :3120996
+	Valor de  nickname:Minounett
+curl -s 'https://www.wyylde.com/rest/message/send/3120996' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODQxNzg4NywiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWGVFNkRhYnhWQk1XRmZob0I1azlydTl6RFdWS1NNeEFYc3drM0pNOVgzZEE1dVhJeGI3Ui4iLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJGZYQ3lpT0pISzJLUzcuUE8zWVlwY3VyU2FGSzZcL1o3dkN2ZGxaVTRhVFl4Zkw0VXpOc1lkVyIsInVwdCI6IjEiLCJ1YXAwIjozMH0.D5bcLp1qSE-xCgnBJ3rsYKBpinTctiD1l90WSP6fc44' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/3120996/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":3120996,"msg":"bonjour, votre profil est sympa...on peut discuter?"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1f60210)
+
+
+
+
+	Valor de  id                :3140898
+	Valor de  nickname:miksi7531
+curl -s 'https://www.wyylde.com/rest/message/send/3140898' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODQxNzg4NywiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWGVFNkRhYnhWQk1XRmZob0I1azlydTl6RFdWS1NNeEFYc3drM0pNOVgzZEE1dVhJeGI3Ui4iLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJGZYQ3lpT0pISzJLUzcuUE8zWVlwY3VyU2FGSzZcL1o3dkN2ZGxaVTRhVFl4Zkw0VXpOc1lkVyIsInVwdCI6IjEiLCJ1YXAwIjozMH0.D5bcLp1qSE-xCgnBJ3rsYKBpinTctiD1l90WSP6fc44' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/3140898/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":3140898,"msg":"bonjour, votre profil est sympa...on peut discuter?"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1f601e0)
+
+
+
+
+	Valor de  id                :2515659
+	Valor de  nickname:encoreplusloin
+curl -s 'https://www.wyylde.com/rest/message/send/2515659' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODQxNzg4NywiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWGVFNkRhYnhWQk1XRmZob0I1azlydTl6RFdWS1NNeEFYc3drM0pNOVgzZEE1dVhJeGI3Ui4iLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJGZYQ3lpT0pISzJLUzcuUE8zWVlwY3VyU2FGSzZcL1o3dkN2ZGxaVTRhVFl4Zkw0VXpOc1lkVyIsInVwdCI6IjEiLCJ1YXAwIjozMH0.D5bcLp1qSE-xCgnBJ3rsYKBpinTctiD1l90WSP6fc44' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/2515659/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":2515659,"msg":"bonjour, votre profil est sympa...on peut discuter?"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1f60270)
+
+
+
+
+	Valor de  id                :3128544
+	Valor de  nickname:NiCouette
+curl -s 'https://www.wyylde.com/rest/message/send/3128544' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODQxNzg4NywiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWGVFNkRhYnhWQk1XRmZob0I1azlydTl6RFdWS1NNeEFYc3drM0pNOVgzZEE1dVhJeGI3Ui4iLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJGZYQ3lpT0pISzJLUzcuUE8zWVlwY3VyU2FGSzZcL1o3dkN2ZGxaVTRhVFl4Zkw0VXpOc1lkVyIsInVwdCI6IjEiLCJ1YXAwIjozMH0.D5bcLp1qSE-xCgnBJ3rsYKBpinTctiD1l90WSP6fc44' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/3128544/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":3128544,"msg":"bonjour, votre profil est sympa...on peut discuter?"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1f60168)
+
+
+
+
+	Valor de  id                :3154860
+	Valor de  nickname:AdrianaVia
+curl -s 'https://www.wyylde.com/rest/message/send/3154860' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODQxNzg4NywiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWGVFNkRhYnhWQk1XRmZob0I1azlydTl6RFdWS1NNeEFYc3drM0pNOVgzZEE1dVhJeGI3Ui4iLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJGZYQ3lpT0pISzJLUzcuUE8zWVlwY3VyU2FGSzZcL1o3dkN2ZGxaVTRhVFl4Zkw0VXpOc1lkVyIsInVwdCI6IjEiLCJ1YXAwIjozMH0.D5bcLp1qSE-xCgnBJ3rsYKBpinTctiD1l90WSP6fc44' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/3154860/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":3154860,"msg":"bonjour, votre profil est sympa...on peut discuter?"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1f60108)
+
+
+
+
+	Valor de  id                :3127501
+	Valor de  nickname:ivari
+curl -s 'https://www.wyylde.com/rest/message/send/3127501' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODQxNzg4NywiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWGVFNkRhYnhWQk1XRmZob0I1azlydTl6RFdWS1NNeEFYc3drM0pNOVgzZEE1dVhJeGI3Ui4iLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJGZYQ3lpT0pISzJLUzcuUE8zWVlwY3VyU2FGSzZcL1o3dkN2ZGxaVTRhVFl4Zkw0VXpOc1lkVyIsInVwdCI6IjEiLCJ1YXAwIjozMH0.D5bcLp1qSE-xCgnBJ3rsYKBpinTctiD1l90WSP6fc44' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/3127501/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":3127501,"msg":"bonjour, votre profil est sympa...on peut discuter?"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1f8c1e0)
+
+
+
+
+	Valor de  id                :2738285
+	Valor de  nickname:douceindecente
+curl -s 'https://www.wyylde.com/rest/message/send/2738285' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODQxNzg4NywiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWGVFNkRhYnhWQk1XRmZob0I1azlydTl6RFdWS1NNeEFYc3drM0pNOVgzZEE1dVhJeGI3Ui4iLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJGZYQ3lpT0pISzJLUzcuUE8zWVlwY3VyU2FGSzZcL1o3dkN2ZGxaVTRhVFl4Zkw0VXpOc1lkVyIsInVwdCI6IjEiLCJ1YXAwIjozMH0.D5bcLp1qSE-xCgnBJ3rsYKBpinTctiD1l90WSP6fc44' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/2738285/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":2738285,"msg":"bonjour, votre profil est sympa...on peut discuter?"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1f60510)
+
+
+
+
+	Valor de  id                :3042004
+	Valor de  nickname:melbyche
+curl -s 'https://www.wyylde.com/rest/message/send/3042004' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODQxNzg4NywiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWGVFNkRhYnhWQk1XRmZob0I1azlydTl6RFdWS1NNeEFYc3drM0pNOVgzZEE1dVhJeGI3Ui4iLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJGZYQ3lpT0pISzJLUzcuUE8zWVlwY3VyU2FGSzZcL1o3dkN2ZGxaVTRhVFl4Zkw0VXpOc1lkVyIsInVwdCI6IjEiLCJ1YXAwIjozMH0.D5bcLp1qSE-xCgnBJ3rsYKBpinTctiD1l90WSP6fc44' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/3042004/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":3042004,"msg":"bonjour, votre profil est sympa...on peut discuter?"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1f8c108)
+
+
+
+
+	Valor de  id                :2197280
+	Valor de  nickname:mdr75
+curl -s 'https://www.wyylde.com/rest/message/send/2197280' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODQxNzg4NywiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWGVFNkRhYnhWQk1XRmZob0I1azlydTl6RFdWS1NNeEFYc3drM0pNOVgzZEE1dVhJeGI3Ui4iLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJGZYQ3lpT0pISzJLUzcuUE8zWVlwY3VyU2FGSzZcL1o3dkN2ZGxaVTRhVFl4Zkw0VXpOc1lkVyIsInVwdCI6IjEiLCJ1YXAwIjozMH0.D5bcLp1qSE-xCgnBJ3rsYKBpinTctiD1l90WSP6fc44' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/2197280/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":2197280,"msg":"bonjour, votre profil est sympa...on peut discuter?"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1f601c8)
+
+
+
+
+	Valor de  id                :3100464
+	Valor de  nickname:ange-ou-demon94
+curl -s 'https://www.wyylde.com/rest/message/send/3100464' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODQxNzg4NywiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWGVFNkRhYnhWQk1XRmZob0I1azlydTl6RFdWS1NNeEFYc3drM0pNOVgzZEE1dVhJeGI3Ui4iLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJGZYQ3lpT0pISzJLUzcuUE8zWVlwY3VyU2FGSzZcL1o3dkN2ZGxaVTRhVFl4Zkw0VXpOc1lkVyIsInVwdCI6IjEiLCJ1YXAwIjozMH0.D5bcLp1qSE-xCgnBJ3rsYKBpinTctiD1l90WSP6fc44' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/3100464/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":3100464,"msg":"bonjour, votre profil est sympa...on peut discuter?"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1f60138)
+
+
+
+
+	Valor de  id                :495271
+	Valor de  nickname:cok_in
+curl -s 'https://www.wyylde.com/rest/message/send/495271' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODQxNzg4NywiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWGVFNkRhYnhWQk1XRmZob0I1azlydTl6RFdWS1NNeEFYc3drM0pNOVgzZEE1dVhJeGI3Ui4iLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJGZYQ3lpT0pISzJLUzcuUE8zWVlwY3VyU2FGSzZcL1o3dkN2ZGxaVTRhVFl4Zkw0VXpOc1lkVyIsInVwdCI6IjEiLCJ1YXAwIjozMH0.D5bcLp1qSE-xCgnBJ3rsYKBpinTctiD1l90WSP6fc44' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/495271/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":495271,"msg":"bonjour, votre profil est sympa...on peut discuter?"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1f600a8)
+
+
+
+
+	Valor de  id                :1999455
+	Valor de  nickname:liberee26
+curl -s 'https://www.wyylde.com/rest/message/send/1999455' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODQxNzg4NywiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWGVFNkRhYnhWQk1XRmZob0I1azlydTl6RFdWS1NNeEFYc3drM0pNOVgzZEE1dVhJeGI3Ui4iLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJGZYQ3lpT0pISzJLUzcuUE8zWVlwY3VyU2FGSzZcL1o3dkN2ZGxaVTRhVFl4Zkw0VXpOc1lkVyIsInVwdCI6IjEiLCJ1YXAwIjozMH0.D5bcLp1qSE-xCgnBJ3rsYKBpinTctiD1l90WSP6fc44' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/1999455/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":1999455,"msg":"bonjour, votre profil est sympa...on peut discuter?"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1f60210)
+
+
+
+
+	Valor de  id                :2301115
+	Valor de  nickname:opium-95
+curl -s 'https://www.wyylde.com/rest/message/send/2301115' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODQxNzg4NywiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWGVFNkRhYnhWQk1XRmZob0I1azlydTl6RFdWS1NNeEFYc3drM0pNOVgzZEE1dVhJeGI3Ui4iLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJGZYQ3lpT0pISzJLUzcuUE8zWVlwY3VyU2FGSzZcL1o3dkN2ZGxaVTRhVFl4Zkw0VXpOc1lkVyIsInVwdCI6IjEiLCJ1YXAwIjozMH0.D5bcLp1qSE-xCgnBJ3rsYKBpinTctiD1l90WSP6fc44' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/2301115/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":2301115,"msg":"bonjour, votre profil est sympa...on peut discuter?"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1f601e0)
+
+
+
+
+	Valor de  id                :2646685
+	Valor de  nickname:alicex
+curl -s 'https://www.wyylde.com/rest/message/send/2646685' -H 'Origin: https://www.wyylde.com' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language:en-us, en;q=1.0,fr-ca, fr;q=0.5,pt-br, pt;q=0.5,es;q=0.5' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTUwODQxNzg4NywiX19pZCI6IjMxNzY4MTUiLCJfX25hbWUiOiJpbG92aXIiLCJfX3N0YXRlcyI6W10sInBhc3N3b3JkX2hhc2giOiIkMnkkMTAkWGVFNkRhYnhWQk1XRmZob0I1azlydTl6RFdWS1NNeEFYc3drM0pNOVgzZEE1dVhJeGI3Ui4iLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJGZYQ3lpT0pISzJLUzcuUE8zWVlwY3VyU2FGSzZcL1o3dkN2ZGxaVTRhVFl4Zkw0VXpOc1lkVyIsInVwdCI6IjEiLCJ1YXAwIjozMH0.D5bcLp1qSE-xCgnBJ3rsYKBpinTctiD1l90WSP6fc44' -H 'Content-Type: application/json;charset=UTF-8' -H 'Accept: application/json, text/plain, */*' -H 'Referer: https://www.wyylde.com/search-result/2646685/profil' -H 'Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)' -H 'Connection: keep-alive' --data-binary '{"id":2646685,"msg":"bonjour, votre profil est sympa...on peut discuter?"}' --compressed
+	Valor de  status:success
+	Valor de  errors:ARRAY(0x1f60270)
+
+
+

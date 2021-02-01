@@ -1,0 +1,29 @@
+Debian GNU/Linux 7.11  Kernel: 2.6.32-042stab141.3
+PHP 5.4.45-0+deb7u12 
+
+
+docker run --rm -it -w /var/www/html -v $(pwd)/source:/var/www/html -p 80:80  php:5.4-apache bash \
+-c "/etc/init.d/apache2 start; \
+chown www-data:www-data /var/www/html/data; \
+chown www-data:www-data /var/www/html/users; \
+chown www-data:www-data /var/www/html/log; \
+chmod u+x *.pl;\
+apt-get update \
+    && apt-get install -yq \
+        build-essential \
+        cpanminus; \
+cpanm install JSON;\
+bash"
+ 
+docker run --rm -it -w /var/www/html -v $(pwd)/source:/var/www/html -p 80:80  raulreyero/jean_f_t:v2 bash \
+-c "/etc/init.d/apache2 start; \
+chown www-data:www-data /var/www/html/data; \
+chown www-data:www-data /var/www/html/users; \
+chown www-data:www-data /var/www/html/log; \
+chmod u+x *.pl;\
+bash"
+
+
+perl /var/www/html/users/erick_75001/../../wyylde_bot.pl erick_75001 eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjcmVhdGV0bSI6MTYxMTg3MTIxOCwiX19pZCI6IjQ4OTYzNzYiLCJfX25hbWUiOiJlcmlja183NTAwMSIsIl9fc3RhdGVzIjpbXSwicGFzc3dvcmRfaGFzaCI6IiQyeSQxMCRSbjBMUnBzNnI2aEZ2M1F5TnF4SWhlS0JRUndURFwvRWRsZ0kuMVJtLmhQSHBhVU9lMjlESDYiLCJlbWFpbF9oYXNoIjoiJDJ5JDEwJHhpQUJHMVdJXC80SDFYR0lEd2RzcnlPNHBDS3ZKZVN3VmxLZWl5VHZVa0h0aVFCQWpFNGFjVyJ9.rU-Oo1frwrs3vLut3z3IJI2hZTiIwRZq7mlu_X2CBi4 1611836467 "Hola" 5 
+
+
